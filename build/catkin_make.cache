@@ -1,0 +1,2 @@
+obstacle-avoidance-turtlebot
+-DCATKIN_DEVEL_PREFIX=/home/rosmachine/ROSworkspaces/testObsAvoid/devel -DCMAKE_INSTALL_PREFIX=/home/rosmachine/ROSworkspaces/testObsAvoid/install -G Unix Makefiles

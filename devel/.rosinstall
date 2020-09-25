@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosmachine/ROSworkspaces/testObsAvoid/devel/setup.sh
